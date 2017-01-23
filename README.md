@@ -8,14 +8,4 @@ Asistente personal para la gestión de la despensa del hogar, con la posibilidad
 * <a href = https://github.com/DanielToimil> Daniel Jesús López Toimil</a>
 
 ##Capturas
-![Alt text](/screens/1.png)
-
-![Alt text](/screens/2.png)
-
-![Alt text](/screens/3.png)
-
-![Alt text](/screens/4.png)
-
-![Alt text](/screens/5.png)
-
-![Alt text](/screens/6.png)
+<img src="/screens/1.png" width="300"> <img src="/screens/2.png" width="300"> <img src="/screens/3.png" width="300"> <img src="/screens/4.png" width="300"> <img src="/screens/5.png" width="300"> <img src="/screens/6.png" width="300">
